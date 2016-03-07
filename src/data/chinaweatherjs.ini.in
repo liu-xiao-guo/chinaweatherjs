@@ -1,0 +1,10 @@
+[ScopeConfig]
+ScopeRunner=./node_modules/unity-js-scopes/bin/unity-js-scopes-launcher %S %R
+_DisplayName=Chinaweatherjs Scope
+_Description=This is a Chinaweatherjs scope
+Author = XiaoGuo, Liu <xiaoguo.liu@canonical.com>
+Icon = icon.png
+
+[Appearance]
+PageHeader.Logo = logo.png
+

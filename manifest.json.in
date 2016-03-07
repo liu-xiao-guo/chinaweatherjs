@@ -1,0 +1,15 @@
+{
+    "architecture": "@CLICK_ARCH@",
+    "description": "A simple Unity scope written in JavaScript",
+    "framework": "ubuntu-sdk-15.04",
+    "hooks": {
+        "chinaweatherjs": {
+            "apparmor": "chinaweatherjs.apparmor",
+            "scope": "chinaweatherjs"
+        }
+    },
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "name": "chinaweatherjs.liu-xiao-guo",
+    "title": "chinaweatherjs",
+    "version": "0.1"
+}
